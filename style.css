@@ -1,0 +1,40 @@
+.main {
+    background: url("image/Underbridge\ Ilorin.jpg");
+    background-size: cover;
+    height: 100px; 
+    text-align: center; 
+    padding: 250px 150px;
+    color: white;
+}
+.main-h {
+    background-color: aquamarine;
+    width:fit-content
+}
+.main-p {
+    background-color: black;
+    width:fit-content
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+}
+.sobi-image {
+    
+}
+.tour-image {
+   
+}
+.places {
+    display: block;
+    background-color: aquamarine;
+}
+.profile-img{
+    width: 400px;
+}
+.tour-profile{
+    height: 100px;
+    width: 100%;  
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    border-bottom: 6px solid blueviolet;  
+}
